@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /
+
+# Leftovers from the WordPress export -- no value in search results.
+Disallow: /wp-json/
+Disallow: /feed/
+Disallow: /comments/feed/
+
+Sitemap: https://www.totalfamilysolutionsfl.com/sitemap.xml
