@@ -37,6 +37,7 @@ PAGES = [
     ("locations/miami/index.html", "0.8", "monthly"),
     ("outpatient-telehealth-care/index.html", "0.8", "monthly"),
     ("medication-mgmt-psychiatric-care/index.html", "0.8", "monthly"),
+    ("request-appointment/index.html", "0.9", "monthly"),
     ("get-in-touch/index.html", "0.7", "monthly"),
     ("insurance/index.html", "0.7", "monthly"),
     ("groups/index.html", "0.6", "monthly"),
